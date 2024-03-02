@@ -4,3 +4,4 @@ Banana - 0.15CAD
 Pineapple - 8CAD
 Cherry - 3CAD
 Avocado - 5CAD
+Grapes - 10CAD
