@@ -5,3 +5,4 @@ Pineapple - 8CAD
 Cherry - 3CAD
 Avocado - 5CAD
 Grapes - 10CAD
+Plum - 3CAD
